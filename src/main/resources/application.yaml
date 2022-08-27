@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: finance-service
+  profiles:
+    active: dev
+      

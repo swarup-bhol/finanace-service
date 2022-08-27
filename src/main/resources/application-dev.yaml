@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      
+      database: finance-service
+      port: 27017
+      host: localhost
